@@ -60,6 +60,10 @@
                 <td>Hard</td>
                 <td>0%</td>
             </tr>
+            <tr>
+                <td>Harder</td>
+                <td>0%</td>
+            </tr>
             <!-- Add more subjects as needed -->
         </table>
         <a href="#" class="btn">View Detailed Report</a>
